@@ -8,11 +8,12 @@ Run these commands:
 
 ### CAPTCHA Strategy  
 Manual CAPTCHA – the script waits 15 seconds for user to enter CAPTCHA on the website.
+#**Demo Link**
+link-[https://drive.google.com/file/d/11_qPlgKIlv66NJX8XL53Lmhpe4FwhFTU/view?usp=drivesdk]
+
 
 ### Sample Env Vars  
 ```env
 SECRET_KEY=your_secret_key
 DEBUG=True
 
-##Demo Link
-link-[https://drive.google.com/file/d/11_qPlgKIlv66NJX8XL53Lmhpe4FwhFTU/view?usp=drivesdk]
