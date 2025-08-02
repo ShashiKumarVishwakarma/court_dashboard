@@ -4,7 +4,7 @@ Delhi High Court – [https://delhihighcourt.nic.in/app/get-case-type-status](ht
 
 ### Simple Setup  
 Run these commands:  
-'python manage.py makemigrations'
+`python manage.py makemigrations`
 'python manage.py migrate'
 'python manage.py runserver'
 
