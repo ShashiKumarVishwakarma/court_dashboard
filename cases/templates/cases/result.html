@@ -1,0 +1,11 @@
+<h3>Case Result:</h3>
+{% if data.error %}
+  <p style="color:red">{{ data.error }}</p>
+{% else %}
+  <p><strong>Petitioner:</strong> {{ data.petitioner }}</p>
+  <p><strong>Respondent:</strong> {{ data.respondent }}</p>
+  <p><strong>Next Hearing:</strong> {{ data.next_hearing }}</p>
+  <a href={{data.href_link}}>ClickToshowDates</a><br>
+{% endif %}
+
+<a href="/">Search Another Case</a>
