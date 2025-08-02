@@ -1,5 +1,5 @@
 # court_dashboard
-### 🏛 Court Chosen  
+### Court Chosen  
 Delhi High Court – [https://delhihighcourt.nic.in/app/get-case-type-status](https://delhihighcourt.nic.in/app/get-case-type-status)
 
 ### Simple Setup  
@@ -8,7 +8,9 @@ Run these commands:
 
 ### CAPTCHA Strategy  
 Manual CAPTCHA – the script waits 15 seconds for user to enter CAPTCHA on the website.
-#**Demo Link**
+
+
+### Demo Video link
 link-[https://drive.google.com/file/d/11_qPlgKIlv66NJX8XL53Lmhpe4FwhFTU/view?usp=drivesdk]
 
 
