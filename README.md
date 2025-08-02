@@ -5,13 +5,13 @@ Delhi High Court – [https://delhihighcourt.nic.in/app/get-case-type-status](ht
 ### Simple Setup  
 Run these commands:  
 `python manage.py makemigrations`
-'python manage.py migrate'
-'python manage.py runserver'
+`python manage.py migrate`
+`python manage.py runserver`
 
 ### CAPTCHA Strategy  
 Manual CAPTCHA – the script waits 15 seconds for user to enter CAPTCHA on the website.
 
 ### Sample Env Vars  
-env
+```env
 SECRET_KEY=your_secret_key
 DEBUG=True
